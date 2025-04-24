@@ -1,4 +1,4 @@
-Desc
+Desc:
 ReUsed merupakan tempat dimana kita bisa membeli dan menjual barang bekas
 
 Feature:
