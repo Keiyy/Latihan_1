@@ -1,0 +1,12 @@
+Desc
+ReUsed merupakan tempat dimana kita bisa membeli dan menjual barang bekas
+
+Feature:
+Buy, Search, Sell, Filter
+
+Team Member:
+1. Andrew - 2702286715
+2. Hengky Arifin - 2702236490
+3. Kennard Elia - 2702246623
+4. ⁠Justien Venerdi - 2702278101
+5. ⁠Vincent - 2702279325
